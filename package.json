@@ -1,6 +1,6 @@
 {
   "name": "ravel-mysql-provider",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0-rc.3",
   "author": "Sean McIntyre <s.mcintyre@xverba.ca>",
   "description": "MySQL Provider for Ravel Rapid Application Development Framework",
   "contributors": [
@@ -55,7 +55,7 @@
     ]
   },
   "dependencies": {
-    "mysql": "2.16.0"
+    "mysql": "2.17.1"
   },
   "peerDependencies": {
     "ravel": ">= 1.0.0-rc.1 < 1.0.0"
